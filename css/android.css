@@ -11,13 +11,19 @@
 
                    /*Header */
 
-
+  .navbar{
+    width:100%;
+    top:0;
+    left:0;
+    z-index:3000;
+  }
 
     .menu{
     width:25px;
     height:25px;
     float:right;
     display:block;
+    z-index:3000;
   }
   
   #toggle.active{
