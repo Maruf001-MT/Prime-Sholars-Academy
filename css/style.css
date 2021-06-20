@@ -74,7 +74,9 @@ height: 110vh;
   .navbar{
     z-index: 1000;
     position: absolute;
-    top;0px;
+    top:0px;
+    left:0;
+    width:100%;
   }
   .title{
     font-family: 'Titillium Web', sans-serif;
